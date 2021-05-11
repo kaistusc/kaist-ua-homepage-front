@@ -14,7 +14,7 @@
     "i18next-browser-languagedetector": "^6.0.1",
     "i18next-http-backend": "^1.0.18",
     "immer": "^8.0.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "material-design-icons": "^3.0.1",
     "node-sass": "^4.13.1",
     "open-color": "^1.7.0",
